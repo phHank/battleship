@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chilean_battleship_Almirante_Latorre.jpg/1200px-Chilean_battleship_Almirante_Latorre.jpg");
+    background-repeat: none;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 10%;
+    font-family: Courier, monospace;
+}
+
+header {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: 0;
+    background-color: rgba(238, 145, 122, 0.5);
+}
+
+h1 {
+    margin-bottom: 0;
+}
